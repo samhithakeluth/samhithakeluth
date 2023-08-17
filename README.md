@@ -1,4 +1,4 @@
--  Hi, I’m @samhithakeluth and i'm a sophomore in the department of Electrical Engineering at IIT Kanpur.
+-  Hi, I’m Samhitha and i'm a sophomore in the department of Electrical Engineering at IIT Kanpur.
 -  I'm currently learning ROOT.
 -  My hobbies include reading books, film analysis, speed cubing and working on astronomy.
 -  I'm using this repository to pen down stuff.
