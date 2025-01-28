@@ -1,5 +1,4 @@
-Hi, I’m Samhitha and i'm a sophomore in EE at IIT Kanpur.
-My pasttime includes speed cubing, reading books, watching films and studying astronomy.
+Hey y'all, I'm Samhitha from IIT Kanpur majoring in electrical engineering. 
 
 
 
